@@ -1,13 +1,6 @@
 # GD-Link
-This is the MATLAB code for GD-Link. This is version 1.
+This is the MATLAB code for GD-Link.GD-Link is to link accounts of the same user across different social platforms.
 
-This example is executed in the data set Facebook-Twitter. There are around 3600 truth matching user pairs across two platform, and the original data has been preprocessed to user feature vector.
+This example is executed in the data set Facebook-Twitter. There are around 3600 link pairs cross two platform, and the original data has been preprocessed to user feature vector.
 
-Input: User attributes feature vectore e.g., user name, screen name, description, network, post. 
-
-Output: Projection matrix and weights.
-
-If any question, please feel free to contact mux@lamda.nju.edu.cn.
-
-We will update the progress in http://lamda.nju.edu.cn/mux/ 
-
+Because CVX or MOSEK optimization method as mentioned in the paper is related to the third-party software, the gradient descent is used as optimization method in this version. More optimization algorithms will be available in following versions.
