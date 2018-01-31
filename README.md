@@ -7,6 +7,7 @@ Input: User attributes feature vectore e.g., user name, screen name, description
 
 Output: Projection matrix and weights.
 
+If any question, please feel free to contact mux@lamda.nju.edu.cn.
 
-
+We will update the progress in http://lamda.nju.edu.cn/mux/ 
 
