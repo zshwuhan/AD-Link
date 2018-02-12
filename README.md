@@ -3,6 +3,8 @@ This is the MATLAB code for AD-Link. AD-Link is to link accounts of the same use
 
 This example is executed in the data set Facebook-Twitter. There are around 3600 truth matching user pairs across two platform, and the original data has been preprocessed to user feature vector.
 
+Dataset: More details can be found in  https://larc.smu.edu.sg/research/data-repository
+
 Input: User attributes feature vector, e.g., user name, screen name, description, network, post. 
 
 Output: Projection matrix and weights.
