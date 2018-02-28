@@ -5,7 +5,7 @@ This example is executed in the data set Facebook-Twitter. There are around 3600
 
 Dataset: More details can be found in  https://larc.smu.edu.sg/research/data-repository
 
-https://raw.githubusercontent.com/SwissDM52/AD-Link/master/20180228104845.jpg
+![image](https://raw.githubusercontent.com/SwissDM52/AD-Link/master/20180228104845.jpg)
 
 
 Input: User attributes feature vector, e.g., user name, screen name, description, network, post. 
