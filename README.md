@@ -5,7 +5,7 @@ This example is executed in the data set Facebook-Twitter. There are around 3600
 
 Dataset: This dataset is crawled from two popular on-line social networks (OSNs), namely, Twitter, Facebook. The detail is shown in the table 1. Due to privacy concerns, the data is anonymized. processed_data1.mat ~ processed_data4.mat are the processed data.
 
-More details can be found in  https://larc.smu.edu.sg/research/data-repository
+More details can be found in  https://larc.smu.edu.sg/user-identity-linkage-dataset
 
 ![image](https://raw.githubusercontent.com/SwissDM52/AD-Link/master/20180228104845.jpg)
 
